@@ -240,6 +240,7 @@ body {
   max-width: 450px;
   h1 {
     color: hsl(271, 36%, 24%);
+    font-size: 35px;
   }
   p {
     color: var(--p-color);
